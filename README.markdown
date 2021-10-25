@@ -7,10 +7,10 @@
 
 Here are some ideas to get you started:
 
--  I�m currently working on ...
--  I�m currently learning ...
--  I�m looking to collaborate on ...
--  I�m looking for help with ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
 -  Ask me about ...
 -  How to reach me: ...
 -  Pronouns: ...
@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 
 ## Hi there! <img src="https://raw.githubusercontent.com/cybertacts/cybertacts/main/wave.gif" width="30px">
 
-We are CYBER TACTS�.
+We are CYBER TACTS™.
 
 We've been operating since 12/12/2012. We're an independent information sharers & Cyber Tech researches concerning in Internet, Networking, Information technology, Cyber security & cyberspace. We are located steps from the center of place Malappuram.
 
- We are constantly striving to bring you the latest cyber tech, knowledge and awareness.
+🔸 We are constantly striving to bring you the latest cyber tech, knowledge and awareness.
 
- We are tech enthusiasts & script kiddies. We are always open to collaborating on projects and innovative /disruptive ideas.
+🔸 We are tech enthusiasts & script kiddies. We are always open to collaborating on projects and innovative /disruptive ideas.
 
- The videos and tutorials we produce are for informational and educational purposes only. 
+🔸 The videos and tutorials we produce are for informational and educational purposes only. 
 
-Find out more about us & feel free to connect with us here.!
+✨😍 Find out more about us & feel free to connect with us here.!
 
 
 
@@ -39,7 +39,7 @@ Find out more about us & feel free to connect with us here.!
 [![Facebook Badge](https://img.shields.io/badge/-cybertacts-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cybertacts/)](https://www.facebook.com/cybertacts)
 [![Gmail Badge](https://img.shields.io/badge/-blog.cybertacts@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blog.cybertacts@gmail.com)](mailto:blog.cybertacts@gmail.com)
 
-##  Technologies
+## 💫 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
